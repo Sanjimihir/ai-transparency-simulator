@@ -1,5 +1,3 @@
-# ai-transparency-simulator
-Interactive AI transparency and explainability simulator for loan decisions using SHAP and counterfactuals
 # AI Transparency Simulator
 
 An interactive Streamlit-based application that demonstrates **AI explainability and transparency**
